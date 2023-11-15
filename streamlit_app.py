@@ -5,7 +5,7 @@ import time
 
 # Set your OpenAI API key here directly (not recommended for security reasons)
 # It's better to use an environment variable or a secret management system
-openai.api_key = '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'
+openai.api_key = ''
 
 # Set your OpenAI Assistant ID here
 assistant_id = 'asst_ETJL6CJL9fHBsYhqbgngtkHa'
